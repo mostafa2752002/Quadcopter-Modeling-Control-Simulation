@@ -2,6 +2,8 @@
 **Aerospace Engineering Senior Project — Cairo University**  
 _Model-Based Design using MATLAB & Simulink_
 
+<img width="668" height="392" alt="SimpleFlightAndSensorInUE4Example_04" src="https://github.com/user-attachments/assets/6a0b00dd-637b-41dd-8f6d-dc7fa7c5daaf" />
+
 ---
 
 ## 🧩 Overview  
