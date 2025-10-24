@@ -74,7 +74,6 @@ Results can be viewed in the **Scopes** and **Visualization** subsystems.
 
 **Mustafa Taha**
 Aerospace Engineering — Cairo University
-Supervised by **Eng. Wessam Ahmed**
 
 ---
 
@@ -95,5 +94,6 @@ Supervised by **Eng. Wessam Ahmed**
 
 
 ---
+
 
 
