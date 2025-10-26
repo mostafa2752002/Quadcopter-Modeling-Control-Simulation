@@ -72,13 +72,6 @@ Results can be viewed in the **Scopes** and **Visualization** subsystems.
 
 ---
 
-## 👨‍💻 Author
-
-**Mustafa Taha**
-Aerospace Engineering — Cairo University
-
----
-
 ## 🌱 Future Enhancements
 
 * Implement **LQR / PID** comparison
@@ -86,15 +79,5 @@ Aerospace Engineering — Cairo University
 * Integrate **PX4 SITL** for real-time testing
 * Explore **fault-tolerant control** logic
 
----
-
-## 📚 References
-
-1. Wessam Ahmed — *Quadcopter Modeling and Controller Design Sessions*
-2. Tarek Deif — *Quadcopter Parameters Excel Sheet*
-3. MATLAB & Simulink Documentation (Aerospace, Control, UAV Toolboxes)
-
-
----
 
 
