@@ -1,4 +1,4 @@
-# 🚁 Quadcopter Modeling, Control, and Simulation  
+# 🚁 AeroSim-Quadcopter-6-DOF-Modeling-Control-and-High-Fidelity-Simulation.
 **Aerospace Engineering Senior Project — Cairo University**  
 _Model-Based Design using MATLAB & Simulink_
 
